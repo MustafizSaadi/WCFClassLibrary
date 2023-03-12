@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe.config
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.pdb
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\bin\Debug\WCFClassLibrary.dll
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\bin\Debug\WCFClassLibrary.pdb
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.CopyComplete
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.exe
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.pdb

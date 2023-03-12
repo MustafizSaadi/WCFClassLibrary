@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\bin\Debug\MagicEightBallServiceVSToolClient.exe.config
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\bin\Debug\MagicEightBallServiceVSToolClient.exe
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\bin\Debug\MagicEightBallServiceVSToolClient.pdb
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\obj\Debug\MagicEightBallServiceVSToolClient.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\obj\Debug\MagicEightBallServiceVSToolClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\obj\Debug\MagicEightBallServiceVSToolClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\obj\Debug\MagicEightBallServiceVSToolClient.exe
+C:\Users\USER\source\repos\WCFClassLibrary\MagicEightBallServiceVSToolClient\obj\Debug\MagicEightBallServiceVSToolClient.pdb

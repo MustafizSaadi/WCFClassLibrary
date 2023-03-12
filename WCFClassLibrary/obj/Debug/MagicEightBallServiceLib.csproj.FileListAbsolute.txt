@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\bin\Debug\WCFClassLibrary.dll
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\bin\Debug\WCFClassLibrary.pdb
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\obj\Debug\MagicEightBallServiceLib.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\obj\Debug\MagicEightBallServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\obj\Debug\WCFClassLibrary.dll
+C:\Users\USER\source\repos\WCFClassLibrary\WCFClassLibrary\obj\Debug\WCFClassLibrary.pdb
